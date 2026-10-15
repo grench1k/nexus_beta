@@ -1,0 +1,6 @@
+nexus
+app
+*.exe
+*.log
+.env
+.DS_Store
